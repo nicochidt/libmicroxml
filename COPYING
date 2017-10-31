@@ -1,12 +1,4 @@
-# libmicroxml
-Version:2012-06-11
-libmicroxml needed for compiling openwrt/feeds/microxml
-
-    The Mini-XML library is Copyright 2003-2011 by Michael Sweet.
-
-    The microxml library is Copyright 2011-2012 by Luka Perkov.
-    
-    			   microxml License
+			   microxml License
 			  September 18, 2010
 
 
